@@ -21,7 +21,7 @@ class Solution(object):
             if not counting_start_zeros:
                 res = res * 10 + head
 
-        # Handling overflow
+        # Handling overflow; required by the question
         if ((sign == -1 and res > 2**32) or res >= 2**32 ):
             return 0
         return sign * res
