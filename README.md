@@ -3,7 +3,7 @@ Some classifications in questions worth reviewing
 
 ## Algorithm  
 - Array Sum Questions  
- - 001 Two Sum with O(n) time  
+ - 001 Unsorted Two Sum with O(n) time  
  - 015 Three Sum with O(n^2) time  
  - 016 Three Sum Closest  
  - 018 Four Sum  
