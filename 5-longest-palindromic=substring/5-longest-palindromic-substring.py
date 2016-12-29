@@ -22,7 +22,8 @@ class Solution(object):
         else:
             return True
 
-# Alg 2: Dynamic Programming. O(n^2) time, O(n^2) space, Time limit exceeded. Note that (i, j) includes endpoint, while those in range() do not include the larger end point.
+# Alg 2: Dynamic Programming. O(n^2) time, O(n^2) space, Time limit exceeded. 
+# Note that (i, j) includes endpoint, while those in range() do not include the larger end point.
 class Solution(object):
     def longestPalindrome(self, s):
         """
@@ -51,7 +52,7 @@ class Solution(object):
         #print ptable
         return s[start:end]
 
-# Alg 3: Dynamic Programming but with O(1) space. Expand from center
+# Alg 3: Expand from center with O(1) space.
 class Solution(object):
     def longestPalindrome(self, s):
         """
