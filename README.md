@@ -20,6 +20,10 @@ Some classifications in questions worth reviewing
  - 012 013 Integer / Roman conversions  
  - 010 Regular Expression Matching  
 
+- Searching and Sorting  
+ - 278 Remember how to implement Binary search  
+
+
 ## Data Structure
 - Linked List  
  - 023 Merge k sorted linked lists. (FIXME - code doesn't work)  
