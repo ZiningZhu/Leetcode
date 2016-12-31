@@ -13,6 +13,7 @@ Some classifications in questions worth reviewing
 - Tricks
  - 011 Container with Most Water with O(n) time. Prove correctness.  
  - 004 Median of Two Sorted Arrays with O(log(n)) time  
+ - 017 Letter Combination. Array traversal.
 
 - Conversions  
  - 008 atoi  
@@ -20,3 +21,5 @@ Some classifications in questions worth reviewing
  - 010 Regular Expression Matching  
 
 ## Data Structure
+- Linked List  
+ - 023 Merge k sorted linked lists. (FIXME - code doesn't work)  
