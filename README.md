@@ -14,6 +14,7 @@ Some classifications in questions worth reviewing
  - 011 Container with Most Water with O(n) time. Prove correctness.  
  - 004 Median of Two Sorted Arrays with O(log(n)) time  
  - 017 Letter Combination. Array traversal.
+ - 020 How to recursively define validity of a parenthesis string and figure out a way to divide-and-conquer it easily?
  - 022 How to make a combo of bracket always balanced?
 
 - Conversions  
