@@ -29,4 +29,4 @@ Some classifications in questions worth reviewing
 ## Data Structure
 - Linked List  
  - 019 Remove the nth element (counting from the back) from a linked list, in a single pass  
- - 023 Merge k sorted linked lists. (FIXME - code doesn't work)  
+ - 023 Merge k sorted linked lists. Usage of PriorityQueue
