@@ -9,6 +9,7 @@ Some classifications in questions worth reviewing
  - 018 Four Sum  
  - 039 Combination Sum  
  - 040 Combination Sum 2  
+ - 562 Methods to traverse a 2D array (matrix)
 
 - Tricks
  - 011 Container with Most Water with O(n) time. Prove correctness.  
