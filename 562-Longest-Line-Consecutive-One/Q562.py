@@ -172,6 +172,7 @@ class Solution(object):
 
 
 # Note1: Here is cleverer brute force solution: We do not need to seperate the cases!
+# Basically pad the rectangle as I did, but reducing function calls speeds things up.
 public class Solution {
     public int longestLine(int[][] M) {
         if (M.length == 0)
