@@ -26,6 +26,8 @@ Some classifications in questions worth reviewing
 - Searching and Sorting  
  - 278 Remember how to implement Binary search  
 
+- Dynamic Programming  
+ - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
 
 ## Data Structure
 - Linked List  
