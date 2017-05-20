@@ -29,6 +29,9 @@ Some classifications in questions worth reviewing
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
 
+- Computational Geometry  
+ - 587 Convex hull (implemented is Grahm's scan in Python)  
+
 ## Data Structure
 - Linked List  
  - 019 Remove the nth element (counting from the back) from a linked list, in a single pass  
