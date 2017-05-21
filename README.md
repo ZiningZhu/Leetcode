@@ -30,7 +30,8 @@ Some classifications in questions worth reviewing
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
 
 - Computational Geometry  
- - 587 Convex hull (implemented is Grahm's scan in Python)  
+ - 587 Convex hull (implemented is Grahm's scan in Python)
+ - 593 How to decide whether coordinates form a square
 
 ## Data Structure
 - Linked List  
