@@ -26,6 +26,7 @@ Some classifications in questions worth reviewing
 
 - Searching and Sorting  
  - 278 Remember how to implement Binary search  
+ - 33 Binary search: Two pointers pointing to the pos 0 and pos length.  
 
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
