@@ -42,3 +42,6 @@ Some classifications in questions worth reviewing
 
 - String
  - 592 A simplified string to number calculator.
+
+- HashSet
+ - 036 Java: Use HashSet.add() return values smartly.
