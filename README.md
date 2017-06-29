@@ -2,6 +2,9 @@
 Some classifications in questions worth reviewing  
 
 ## Algorithm  
+- String Algorithms  
+ - String search: 028 (passed with basic search; consider KMP)  
+
 - Array Sum Questions  
  - 001 Unsorted Two Sum with O(n) time  
  - 015 Three Sum with O(n^2) time  
