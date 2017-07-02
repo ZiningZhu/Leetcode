@@ -35,6 +35,7 @@ Some classifications in questions worth reviewing
 
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
+ - 634 Array Dearrangement
 
 - Computational Geometry  
  - 587 Convex hull (implemented is Grahm's scan in Python)
