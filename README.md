@@ -32,10 +32,12 @@ Some classifications in questions worth reviewing
  - 278 Remember how to implement Binary search  
  - 33 Binary search: Two pointers pointing to the {pos 0 and pos length}, then while (j>i+1); ans is in mid=i. There can be other ways to do so: {pos 0 and pos length-1}, then while (j>i); ans is in i==j==mid==ans. See revised solution.  
  - 37 Backtracking search to solve Sudoku   
+ - 638 Applying coupon to products.
 
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
  - 634 Array Dearrangement
+ - 639 Decode ways 2. Figure out how to DP and write codes concisely.
 
 - Computational Geometry  
  - 587 Convex hull (implemented is Grahm's scan in Python)
