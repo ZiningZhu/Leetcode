@@ -53,3 +53,7 @@ Some classifications in questions worth reviewing
 
 - HashSet
  - 036 Java: Use HashSet.add() return values smartly.
+
+- Trie  
+ - 209 Implement a basic Trie. Remember how to let it support "search" and "startsWith".  
+ - 642 Auto-complete search. Do it with a Trie.
