@@ -33,6 +33,7 @@ Some classifications in questions worth reviewing
  - 33 Binary search: Two pointers pointing to the {pos 0 and pos length}, then while (j>i+1); ans is in mid=i. There can be other ways to do so: {pos 0 and pos length-1}, then while (j>i); ans is in i==j==mid==ans. See revised solution.  
  - 37 Backtracking search to solve Sudoku   
  - 638 Applying coupon to products.
+ - 646 Sort a 2d primitive type array in Java and Python (Syntax!)  
 
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
@@ -57,3 +58,4 @@ Some classifications in questions worth reviewing
 - Trie  
  - 209 Implement a basic Trie. Remember how to let it support "search" and "startsWith".  
  - 642 Auto-complete search. Do it with a Trie.
+ - 648 Also a Trie problem.
