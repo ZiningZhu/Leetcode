@@ -34,6 +34,7 @@ Some classifications in questions worth reviewing
  - 37 Backtracking search to solve Sudoku   
  - 638 Applying coupon to products.
  - 646 Sort a 2d primitive type array in Java and Python (Syntax!)  
+ - 658 K-nearest elements of an array: Effecient code in Python  
 
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
