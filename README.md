@@ -22,6 +22,7 @@ Some classifications in questions worth reviewing
  - 020 How to recursively define validity of a parenthesis string and figure out a way to divide-and-conquer it easily?
  - 022 How to make a combo of bracket always balanced?
  - 102 (Java) Generics are not covariants [StackOverflow](https://stackoverflow.com/questions/24796273/incompatible-types-list-of-list-and-arraylist-of-arraylist)  
+ - 659 Usage of Python collections and enumeration. Difference between subsequence and substring.  
  - 660 What does it mean by removing 9?  
 
 - Conversions  
