@@ -24,6 +24,9 @@ Some classifications in questions worth reviewing
  - 102 (Java) Generics are not covariants [StackOverflow](https://stackoverflow.com/questions/24796273/incompatible-types-list-of-list-and-arraylist-of-arraylist)  
  - 659 Usage of Python collections and enumeration. Difference between subsequence and substring.  
  - 660 What does it mean by removing 9?  
+ - 665 Decide if an array is non-decreasing (with <=1 anomaly)  
+ - 667 Beautiful arrangement 2: construct a list of length n containing [1,n] where the abs differences between neighbors form exactly k distinct numbers  
+
 
 - Conversions  
  - 008 atoi  
@@ -37,6 +40,7 @@ Some classifications in questions worth reviewing
  - 638 Applying coupon to products.
  - 646 Sort a 2d primitive type array in Java and Python (Syntax!)  
  - 658 K-nearest elements of an array: Effecient code in Python  
+ - 668 Find the kth largest number in the multiplication table.  
 
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
