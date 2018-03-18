@@ -45,7 +45,8 @@ Some classifications in questions worth reviewing
 - Dynamic Programming  
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
  - 634 Array Dearrangement
- - 639 Decode ways 2. Figure out how to DP and write codes concisely.
+ - 639 Decode ways 2. Figure out how to DP and write codes concisely.  
+ - 801 Minimum swaps needed to make sequences strictly increasing.
 
 - Computational Geometry  
  - 587 Convex hull (implemented is Grahm's scan in Python)
