@@ -26,7 +26,10 @@ Some classifications in questions worth reviewing
  - 660 What does it mean by removing 9?  
  - 665 Decide if an array is non-decreasing (with <=1 anomaly)  
  - 667 Beautiful arrangement 2: construct a list of length n containing [1,n] where the abs differences between neighbors form exactly k distinct numbers  
-
+ - Number elimination:
+  - Original Joseph question: eliminate one, skip one, in circle. Memorize the solution (2*l+1 where l is the `Integer.largestOneBit(N)`)
+  - 390 eliminate one, skip one, go backwards in array, repeat
+  - 810 Chalkboard XOR game: A first, eliminate one number each time. If all numbers XOR to 0 A wins. Can A win?
 
 - Conversions  
  - 008 atoi  
@@ -67,3 +70,8 @@ Some classifications in questions worth reviewing
  - 209 Implement a basic Trie. Remember how to let it support "search" and "startsWith".  
  - 642 Auto-complete search. Do it with a Trie.
  - 648 Also a Trie problem.
+
+- Graphs
+ - 785 Bipartite graph
+ - 787 Cheapest flights within k stops
+ - 802 Search for eventually safe states
