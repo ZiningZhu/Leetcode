@@ -49,7 +49,8 @@ Some classifications in questions worth reviewing
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
  - 634 Array Dearrangement
  - 639 Decode ways 2. Figure out how to DP and write codes concisely.  
- - 801 Minimum swaps needed to make sequences strictly increasing.
+ - 801 Minimum swaps needed to make sequences strictly increasing.  
+ - 813 Largest sum of averages of K adjacent groups
 
 - Computational Geometry  
  - 587 Convex hull (implemented is Grahm's scan in Python)
@@ -75,3 +76,4 @@ Some classifications in questions worth reviewing
  - 785 Bipartite graph
  - 787 Cheapest flights within k stops
  - 802 Search for eventually safe states
+ - 815 Bus Routes
