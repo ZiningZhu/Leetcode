@@ -30,6 +30,7 @@ Some classifications in questions worth reviewing
   - Original Joseph question: eliminate one, skip one, in circle. Memorize the solution (2*l+1 where l is the `Integer.largestOneBit(N)`)
   - 390 eliminate one, skip one, go backwards in array, repeat
   - 810 Chalkboard XOR game: A first, eliminate one number each time. If all numbers XOR to 0 A wins. Can A win?
+ - 825 & 826 optimization. 
 
 - Conversions  
  - 008 atoi  
