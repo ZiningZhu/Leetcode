@@ -47,6 +47,7 @@ Some classifications in questions worth reviewing
  - 668 Find the kth largest number in the multiplication table.  
 
 - Dynamic Programming  
+ - 042 Trapping rain water
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
  - 634 Array Dearrangement
  - 639 Decode ways 2. Figure out how to DP and write codes concisely.  
