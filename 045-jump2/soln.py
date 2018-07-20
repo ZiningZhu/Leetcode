@@ -72,7 +72,7 @@ class Solution(object):
         # Optimization from https://leetcode.com/problems/jump-game-ii/discuss/150449/DP-with-a-trick
         # A[i] (min step to reach i) always change continuously.
         # This is not very stable. Passes on local sometimes. TLE on server.
-
+        """
         # === Start of hacking towards the last case
         if len(nums) == 25002:
             if nums[-20002:-2] == list(range(20000, 0, -1)):
@@ -88,3 +88,21 @@ class Solution(object):
                 else:
                     break  # A[i+1, ..., j] won't be smaller than the current value
         return A[-1]
+        """
+
+        # O(n) greedy solution
+        # https://leetcode.com/problems/jump-game-ii/discuss/18028/O(n)-BFS-solution
+        # Based on the idea that the A[i] changes continuously
+        # Divide each value of A[i] into a "group". The max reach of a group covers the next group (the loop invariant).
+
+        step = 0
+        next_reach = 0  # idx of the last elem of next group
+        curr_reach = 0  # idx of the last elem of current group
+        for i in range(len(nums)):
+            if i > curr_reach:
+                step += 1
+                curr_reach = next_reach
+            next_reach = max(nums[i] + i, next_reach)
+
+        return step
+        
