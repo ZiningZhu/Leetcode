@@ -79,7 +79,8 @@ Some classifications in questions worth reviewing
  - 648 Also a Trie problem.
 
 - Graphs
- - 785 Bipartite graph
+ - 785 Bipartite graph  
+ - 890 Check bipartite-able  
  - 787 Cheapest flights within k stops
  - 802 Search for eventually safe states
  - 815 Bus Routes
