@@ -1,12 +1,12 @@
-#Leetcode
+# Leetcode  
 Some classifications in questions worth reviewing  
 
-## Algorithm  
-- String Algorithms  
+## Algorithm   
+### String Algorithms   
  - String search: 028 (passed with basic search; consider KMP)  
  - 635 Strings are comparable!
 
-- Array Sum Questions  
+### Array Sum Questions   
  - 001 Unsorted Two Sum with O(n) time  
  - 015 Three Sum with O(n^2) time  
  - 016 Three Sum Closest  
@@ -15,7 +15,7 @@ Some classifications in questions worth reviewing
  - 040 Combination Sum 2  
  - 562 Methods to traverse a 2D array (matrix)
 
-- Tricks
+### Tricks  
  - 011 Container with Most Water with O(n) time. Prove correctness.  
  - 004 Median of Two Sorted Arrays with O(log(n)) time  
  - 017 Letter Combination. Array traversal.
@@ -33,12 +33,12 @@ Some classifications in questions worth reviewing
   - 810 Chalkboard XOR game: A first, eliminate one number each time. If all numbers XOR to 0 A wins. Can A win?
  - 825 & 826 optimization.
 
-- Conversions  
+### Conversions  
  - 008 atoi  
  - 012 013 Integer / Roman conversions  
  - 010 Regular Expression Matching  
 
-- Searching and Sorting  
+### Searching and Sorting  
  - 278 Remember how to implement Binary search  
  - 33 Binary search: Two pointers pointing to the {pos 0 and pos length}, then while (j>i+1); ans is in mid=i. There can be other ways to do so: {pos 0 and pos length-1}, then while (j>i); ans is in i==j==mid==ans. See revised solution.  
  - 74 also binary search  
@@ -48,7 +48,7 @@ Some classifications in questions worth reviewing
  - 658 K-nearest elements of an array: Effecient code in Python  
  - 668 Find the kth largest number in the multiplication table.  
 
-- Dynamic Programming  
+### Dynamic Programming  
  - 042 Trapping rain water (1D)  
  - 072 Edit Distance (2D)
  - 583 Longest Common Subsequence (and comparison with Longest Common Substring)  
@@ -57,28 +57,28 @@ Some classifications in questions worth reviewing
  - 801 Minimum swaps needed to make sequences strictly increasing.  
  - 813 Largest sum of averages of K adjacent groups
 
-- Computational Geometry  
+### Computational Geometry  
  - 587 Convex hull (implemented is Grahm's scan in Python)
  - 593 How to decide whether coordinates form a square  
  - 858 How to consider mirror reflection?  
 
 ## Data Structure
-- Linked List  
+### Linked List  
  - 019 Remove the nth element (counting from the back) from a linked list, in a single pass  
  - 023 Merge k sorted linked lists. Usage of PriorityQueue
 
-- String
+### String  
  - 592 A simplified string to number calculator.
 
-- HashSet
+### HashSet  
  - 036 Java: Use HashSet.add() return values smartly.
 
-- Trie  
+### Trie   
  - 209 Implement a basic Trie. Remember how to let it support "search" and "startsWith".  
  - 642 Auto-complete search. Do it with a Trie.
  - 648 Also a Trie problem.
 
-- Graphs
+### Graphs  
  - 785 Bipartite graph  
  - 890 Check bipartite-able  
  - 787 Cheapest flights within k stops
