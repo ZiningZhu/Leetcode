@@ -84,3 +84,6 @@ Some classifications in questions worth reviewing
  - 787 Cheapest flights within k stops
  - 802 Search for eventually safe states
  - 815 Bus Routes
+
+### Misc
+ - 146 Least Recently Used cache data structure design.
